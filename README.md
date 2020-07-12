@@ -10,7 +10,7 @@ Even though this guide is for folks preparing for interviews, its' a good guide 
 
 This [Youtube Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) by CrashCourse contains A-Z fundamentals in a very easy to understand language but if you don't have time, at least start with these two:
 
-1. [Intro to Algorith](https://www.youtube.com/watch?v=rL8X2mlNHPM&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&t=0s)
+1. [Intro to Algorithm](https://www.youtube.com/watch?v=rL8X2mlNHPM&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&t=0s)
 2. [Intro to Data Structure](!https://www.youtube.com/watch?v=DuDz6B4cqVc&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&t=0s)
 
 ## Data Structures
