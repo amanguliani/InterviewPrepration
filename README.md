@@ -80,8 +80,26 @@ As you get more comfortable solving the problem and start to get more optimal so
 
 To help you get started, here is a [beginner guide](Beginner.md) with some common problems broken by topic to pick from. 
 
-# References
+# Interviewing Resources
 * [Base Cs](https://medium.com/basecs/tagged/data-structures) 
 * [Tech Inteview Handbook](https://yangshun.github.io/tech-interview-handbook/) 
 * [GeeksForGeeks](https://practice.geeksforgeeks.org/home/)
+## Websites with algorithm problems
 * [LeetCode](https://leetcode.com/explore/)
+Plenty of problems here, with varying difficulty. Doesn't always have "official" answers though.
+* [firecode.io](http://firecode.io/)
+Similar to LeetCode, but better answers and feedback.
+* [HackerRank](https://www.hackerrank.com)
+Also similar to LeetCode and firecode.io
+## Learning resources
+* [Interview Cake](https://www.interviewcake.com)
+Good, but not a lot of content
+* Element of Programming Interviews - A great book. Highly recommend.
+* Cracking the Coding Interview - Good book, but not as good as Elements of Programming Interviews (in my opinion).
+* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+## Mock interview services
+* [interviewing.io](https://interviewing.io) 
+Good website for having mock interviews. Also allows you to have anonymous interviews with REAL companies too.
+* [Pramp](https://www.pramp.com)
+Another mock interview service. Maybe not as high quality as interviewing.io, but more interviews available.
+* [Gainlo](http://www.gainlo.co) - Paid mock interview service
